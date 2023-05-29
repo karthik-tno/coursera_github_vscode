@@ -1,3 +1,7 @@
 feature 1
+# Design complete for feature#1, so v0.1 release
 
 # Verification complete for feature#1, so v1.0 release
+
+feature 1 bug in v1.0
+# Bug in feature 1 solved, so v1.1
