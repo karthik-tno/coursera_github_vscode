@@ -1,1 +1,3 @@
 feature 1
+
+# Verification complete for feature#1, so v1.0 release
