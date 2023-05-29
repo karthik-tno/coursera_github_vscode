@@ -4,4 +4,6 @@ feature 1
 # Verification complete for feature#1, so v1.0 release
 
 feature 1 bug in v1.0
-# Bug in feature 1 solved, so v1.1
+# Bug in feature 1 solved
+
+# Verification complete for feature#1 bug-fix, so v1.1 release
