@@ -3,4 +3,6 @@ feature 2
 
 # Verification complete for feature#2, so v2.0 release
 
-# ready to merge to main branch
+# ready to merge to main branch, v2.1
+
+# feature#2 bug#1 in v2.1
