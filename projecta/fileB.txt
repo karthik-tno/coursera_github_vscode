@@ -9,3 +9,4 @@ feature 2
 
 # bug#1 in feature#2 solved
 
+# Verification complete for feature#2 bug#2 fixed, so candidate for v2.2 release
