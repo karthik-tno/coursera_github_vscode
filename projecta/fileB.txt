@@ -6,3 +6,6 @@ feature 2
 # ready to merge to main branch, v2.1
 
 # feature#2 bug#1 in v2.1
+
+# bug#1 in feature#2 solved
+
