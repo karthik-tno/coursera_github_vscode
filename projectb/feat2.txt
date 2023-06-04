@@ -2,4 +2,6 @@ feature#2
 
 # Design complete for feature#2
 
-# Verification complete for feature#1, so v3.1 release
+# Verification complete for feature#2
+
+# ready to merge to main branch, v3.1
