@@ -9,3 +9,5 @@ feature#2
 # feature#2 bug#1 reported
 
 # feature#2 bug#1 solved
+
+# feature#2 bug#1 Verification completed , so candidate for v3.1 release
