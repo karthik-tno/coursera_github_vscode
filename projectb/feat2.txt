@@ -6,4 +6,6 @@ feature#2
 
 # ready to merge to main branch
 
-# feature#2 bug#1
+# feature#2 bug#1 reported
+
+# feature#2 bug#1 solved
