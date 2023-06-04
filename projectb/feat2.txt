@@ -4,4 +4,10 @@ feature#2
 
 # Verification complete for feature#2
 
-# ready to merge to main branch, v3.1
+# ready to merge to main branch
+
+# feature#2 bug#1 reported
+
+# feature#2 bug#1 solved
+
+# feature#2 bug#1 Verification completed , so candidate for v3.1 release
