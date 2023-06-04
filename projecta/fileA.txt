@@ -8,3 +8,5 @@ feature 1 bug in v1.0
 
 # Verification complete for feature#1 bug-fix, so v1.1 release
 # Wrong tagging v1.1 for featureX branch (should be in main branch)
+
+project a is closed
